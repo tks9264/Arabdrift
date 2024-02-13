@@ -1,0 +1,52 @@
+
+
+}
+body {
+	font-color: #000;
+	font-family: Impact;
+
+}
+
+h1{
+	font-color: #800000;
+	font-family:Impact;
+	font-size: 200px;
+
+}
+
+p {
+	font-family:Impact;
+	width: 900px;
+
+
+}
+
+body { background-color: #FFFF33 }
+
+
+
+
+#specialPara {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#mainthing {
+	font-color: red;
+	
+}
+
+.emphasis {
+
+	font-family: Impact;
+
+
+}
+.superEmphasis{
+	color: royalblue;
+	width: 250px;
+	display: inline-block;
+}
+.organizer {
+	background-color: orange;
+}
