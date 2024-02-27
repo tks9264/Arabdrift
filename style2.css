@@ -25,3 +25,18 @@ body { background-color: #FFFF33 }
 
 
 
+.twoColumnContainer {
+		box-sizing: border-box;
+		margin: 30 px;
+		padding: 30 px;
+		width: 100%;
+}
+
+.oneColumn {
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+	width: 49%;
+}
